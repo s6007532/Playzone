@@ -1,4 +1,4 @@
 merged master branch 1
 stash 1 
 Branch1 2
-fwd 1
+fwd 2
