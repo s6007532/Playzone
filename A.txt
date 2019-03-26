@@ -2,3 +2,4 @@ merged master branch 1
 stash 1 
 Branch1 2
 fwd 2
+stash 2
